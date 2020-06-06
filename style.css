@@ -36,6 +36,7 @@ h3 {
 
 .jumbotron {
   background-color: var(--color-light-gray);
+  padding: 10rem 0;
 }
 .hero ul li {
   color: var(--color-gray-blue);
